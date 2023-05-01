@@ -1,0 +1,6 @@
+streamlit
+langchain
+openai
+pytube
+youtube-transcript-api
+tiktoken
